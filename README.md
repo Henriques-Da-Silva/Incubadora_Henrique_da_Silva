@@ -17,9 +17,14 @@
 
   ⚠ Deve ser instalada a biblioteca antes de usar a APP
 
-      ```bash```
+      bash
       
       pip install customtkinter
   
+
+---
+
+## 🎲 Persistência de dados
+  Para persistência dos dados, os mesmos são armazenados em ficheiros ***.json***
 
 ---
