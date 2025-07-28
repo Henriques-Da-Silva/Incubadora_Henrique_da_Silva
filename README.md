@@ -15,6 +15,6 @@
 ## 🖼 Inferface da app
   A app foi feita utilizando interfaces do **CustomTkinter**, com cores solidas e um tema escuro.
 
-  
-
 ---
+
+## ⚠ Deve ser instalada a biblioteca antes de usar a APP ⚠
